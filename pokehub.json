@@ -77,7 +77,6 @@
     "height": "2.01 m",
     "weight": "100.0 kg",
     "candy": "Bulbasaur Candy",
-    "candy_count": 25,
     "egg": "Not in Eggs",
     "spawn_chance": 0.017,
     "avg_spawns": 1.7,
@@ -96,7 +95,13 @@
       "num": "002",
       "name": "Ivysaur"
     }]
-  }, {
+    ,
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
+    }]
+  },          
+    {
     "id": 4,
     "num": "004",
     "name": "Charmander",
