@@ -94,14 +94,12 @@
     }, {
       "num": "002",
       "name": "Ivysaur"
-    }]
-    ,
+    }],
     "next_evolution": [{
       "num": "0",
       "name": "This is the final Evolution"
     }]
-  },          
-    {
+  },{
     "id": 4,
     "num": "004",
     "name": "Charmander",
@@ -188,6 +186,10 @@
     }, {
       "num": "005",
       "name": "Charmeleon"
+    }],
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
     }]
   }, {
     "id": 7,
