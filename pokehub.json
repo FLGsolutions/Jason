@@ -274,6 +274,10 @@
     }, {
       "num": "008",
       "name": "Wartortle"
+    }],
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
     }]
   }, {
     "id": 10,
@@ -367,6 +371,10 @@
     }, {
       "num": "011",
       "name": "Metapod"
+    }],
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
     }]
   }, {
     "id": 13,
@@ -466,6 +474,10 @@
     }, {
       "num": "014",
       "name": "Kakuna"
+    }],
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
     }]
   }, {
     "id": 16,
@@ -556,6 +568,10 @@
     }, {
       "num": "017",
       "name": "Pidgeotto"
+    }],
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
     }]
   }, {
     "id": 19,
@@ -606,6 +622,10 @@
     "prev_evolution": [{
       "num": "019",
       "name": "Rattata"
+    }],
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
     }]
   }, {
     "id": 21,
@@ -660,6 +680,10 @@
     "prev_evolution": [{
       "num": "021",
       "name": "Spearow"
+    }],
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
     }]
   }, {
     "id": 23,
@@ -712,6 +736,10 @@
     "prev_evolution": [{
       "num": "023",
       "name": "Ekans"
+    }],
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
     }]
   }, {
     "id": 25,
@@ -759,6 +787,10 @@
     "prev_evolution": [{
       "num": "025",
       "name": "Pikachu"
+    }],
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
     }]
   }, {
     "id": 27,
@@ -810,6 +842,10 @@
     "prev_evolution": [{
       "num": "027",
       "name": "Sandshrew"
+    }],
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
     }]
   }, {
     "id": 29,
@@ -903,6 +939,10 @@
     }, {
       "num": "030",
       "name": "Nidorina"
+    }],
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
     }]
   }, {
     "id": 32,
@@ -993,6 +1033,10 @@
     }, {
       "num": "033",
       "name": "Nidorino"
+    }],
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
     }]
   }, {
     "id": 35,
@@ -1043,6 +1087,10 @@
     "prev_evolution": [{
       "num": "035",
       "name": "Clefairy"
+    }],
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
     }]
   }, {
     "id": 37,
@@ -1097,6 +1145,10 @@
     "prev_evolution": [{
       "num": "037",
       "name": "Vulpix"
+    }],
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
     }]
   }, {
     "id": 39,
@@ -1144,6 +1196,10 @@
     "prev_evolution": [{
       "num": "039",
       "name": "Jigglypuff"
+    }],
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
     }]
   }, {
     "id": 41,
