@@ -1258,6 +1258,10 @@
     "prev_evolution": [{
       "num": "041",
       "name": "Zubat"
+    }],
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
     }]
   }, {
     "id": 43,
@@ -1351,6 +1355,10 @@
     }, {
       "num": "044",
       "name": "Gloom"
+    }],
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
     }]
   }, {
     "id": 46,
@@ -1410,6 +1418,10 @@
     "prev_evolution": [{
       "num": "046",
       "name": "Paras"
+    }],
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
     }]
   }, {
     "id": 48,
@@ -1468,6 +1480,10 @@
     "prev_evolution": [{
       "num": "048",
       "name": "Venonat"
+    }],
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
     }]
   }, {
     "id": 50,
@@ -1519,6 +1535,14 @@
     "prev_evolution": [{
       "num": "050",
       "name": "Diglett"
+    }],
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
+    }],
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
     }]
   }, {
     "id": 52,
@@ -1566,6 +1590,10 @@
     "prev_evolution": [{
       "num": "052",
       "name": "Meowth"
+    }],
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
     }]
   }, {
     "id": 54,
@@ -1615,6 +1643,10 @@
     "prev_evolution": [{
       "num": "054",
       "name": "Psyduck"
+    }],
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
     }]
   }, {
     "id": 56,
@@ -1669,6 +1701,10 @@
     "prev_evolution": [{
       "num": "056",
       "name": "Mankey"
+    }],
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
     }]
   }, {
     "id": 58,
@@ -1723,6 +1759,10 @@
     "prev_evolution": [{
       "num": "058",
       "name": "Growlithe"
+    }],
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
     }]
   }, {
     "id": 60,
@@ -1814,6 +1854,10 @@
     }, {
       "num": "061",
       "name": "Poliwhirl"
+    }],
+    "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
     }]
   }]
 }
